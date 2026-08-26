@@ -1,0 +1,10 @@
+apple
+application
+banana
+orange
+computer
+science
+engineering
+student
+python
+algorithm
