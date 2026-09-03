@@ -1,6 +1,0 @@
-Search pattern
-Sort numbers
-Find shortest path
-Find duplicate documents
-Solve Sudoku
-Compress data
