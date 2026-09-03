@@ -1,0 +1,8 @@
+Article 1
+Artificial Intelligence is transforming healthcare by helping doctors diagnose diseases faster.
+Article 2
+Machine Learning enables computers to learn from data without explicit programming.
+Article 3
+Natural Language Processing helps computers understand human language.
+Article 4
+Data Science is used to analyze large amounts of data and extract useful information.

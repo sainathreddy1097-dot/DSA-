@@ -1,0 +1,4 @@
+Artificial Intelligence is transforming healthcare.
+Machine Learning is a branch of Artificial Intelligence.
+Python is widely used in Data Science.
+Natural Language Processing is useful for chatbots.
