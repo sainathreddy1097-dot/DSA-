@@ -1,5 +1,0 @@
-1. Service Scope
-The supplier will provide the managed infrastructure services described in the applicable order.
-
-2. Incident Notice
-The supplier will notify the customer of a confirmed security incident without undue delay.
